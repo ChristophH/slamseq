@@ -54,4 +54,4 @@ These tests are run both with the latest available version of `Nextflow` and als
 
 ## Getting help
 
-For further information/help, please consult the [nf-core/slamseq documentation](https://nf-co.re/slamseq/docs) and don't hesitate to get in touch on the nf-core Slack [#slamseq](https://nfcore.slack.com/channels/slamseq) channel ([join our Slack here](https://nf-co.re/join/slack)).
+For further information/help, please consult the [nf-core/slamseq documentation](https://nf-co.re/slamseq/usage) and don't hesitate to get in touch on the nf-core Slack [#slamseq](https://nfcore.slack.com/channels/slamseq) channel ([join our Slack here](https://nf-co.re/join/slack)).
