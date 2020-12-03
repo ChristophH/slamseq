@@ -1,4 +1,4 @@
-FROM nfcore/base:1.12
+FROM nfcore/base:1.12.1
 LABEL authors="Tobias Neumann" \
       description="Docker image containing all software requirements for the nf-core/slamseq pipeline"
 
