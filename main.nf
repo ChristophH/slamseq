@@ -4,7 +4,8 @@
     nf-core/slamseq
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     Github : https://github.com/nf-core/slamseq
-Website: https://nf-co.re/slamseq
+
+    Website: https://nf-co.re/slamseq
     Slack  : https://nfcore.slack.com/channels/slamseq
 ----------------------------------------------------------------------------------------
 */
