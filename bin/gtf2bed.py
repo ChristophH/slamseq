@@ -196,7 +196,7 @@ for annotationSource in sources:
                     cds[txIter - 1]['end'] = int(end)
 
     cdsRank = cds.keys()
-    exonRank = exon.keys()
+    exonRank = list(exon.keys())
 
     if len(cdsRank) == 0:
         if (curStrand == "+") :
